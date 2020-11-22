@@ -66,6 +66,6 @@
 <br>
 
 - 스터디교재
-  - 주교재: 
-  - 부교재: 
-  - 참고강의: 
+  - 주교재: [컴퓨터구조론](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970509693&orderClick=LAG&Kc=)(김종현 지음, 생능출판사)
+  - 참고강의: [K-MOOC 컴퓨터 구조](http://www.kmooc.kr/courses/course-v1:SMUCk+CK.SMUC03k+2017_T6/video)
+
