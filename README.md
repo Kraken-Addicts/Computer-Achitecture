@@ -25,28 +25,28 @@
 |        | 　                                     | 　 3.5 정수의 산술 연산　                       |    `⑨kycho`    |     |
 |        | 　                                     | 　 3.6 부동소수점 수의 표현　                   |   `⑩jakang`    |     |
 |        | 　                                     | 　 3.7 부동소수점 산술 연산　                   |   `①gaekim`    |     |
-|        | 　                                     | 　+ OS 구술문제 [2 제출]()　                    |   `①gaekim`    |     |
+|        | 　                                     | 　+ OS 구술문제 [2 제출](https://github.com/Kraken-Addicts/Operating-System/issues/10)　                    |   `①gaekim`    |     |
 ||||||
 | **4**  | **[CPU의 기본 구성 및 명령어 세트]()** |                                                 | **12/7 (월)**  |     |
 |        | 　                                     | 　 2.1 CPU의 기본 구조　                        |    `②secho`    |     |
 |        | 　                                     | 　 2.4 명령어 세트 - 연산의 종류, 명령어형식　  |    `③yeha`     |     |
 |        | 　                                     | 　 2.4 명령어 세트 - 주소지정방식　             |    `④kukim`    |     |
 |        | 　                                     | 　 2.4 명령어 세트 - 상용프로세서 *(간단히)*　  |   `⑤mihykim`   |     |
-|        | 　                                     | 　+ OS 구술문제 [2 해설]()　                    |   `①gaekim`    |     |
+|        | 　                                     | 　+ OS 구술문제 [2 해설](https://github.com/Kraken-Addicts/Operating-System/issues/10)　                    |   `①gaekim`    |     |
 ||||||
 | **5**  | **[명령어 실행]()**                    |                                                 | **12/10 (목)** |     |
 |        | 　                                     | 　 2.2 명령어 실행 - 인출사이클　               |   `⑥daelee`    |     |
 |        | 　                                     | 　 2.2 명령어 실행 - 실행사이클　               |   `⑦sancho`    |     |
 |        | 　                                     | 　 2.2 명령어 실행 - 인터럽트사이클　           |   `⑧yeosong`   |     |
 |        | 　                                     | 　 2.2 명령어 실행 - 간접사이클　               |    `⑨kycho`    |     |
-|        | 　                                     | 　+ OS 구술문제 [3 제출]()　                    |   `⑥daelee`    |     |
+|        | 　                                     | 　+ OS 구술문제 [3 제출](https://github.com/Kraken-Addicts/Operating-System/issues/11)　                    |   `⑥daelee`    |     |
 ||||||
 | **6**  | **[인터럽트/서브루틴/파이프라이닝]()** |                                                 | **12/14 (월)** |     |
 |        | 　                                     | 　 2.3 명령어 파이프라이닝 - 2단계　            |   `⑩jakang`    |     |
 |        | 　                                     | 　 2.3 명령어 파이프라이닝 - 4단계　            |   `①gaekim`    |     |
 |        | 　                                     | 　 2.3 명령어 파이프라이닝 - 슈퍼스칼라　       |    `②secho`    |     |
 |        | 　                                     | 　 2.3 명령어 파이프라이닝 - 듀얼/멀티코어　    |    `③yeha`     |     |
-|        | 　                                     | 　+ OS 구술문제 [3 해설]()　                    |   `⑥daelee`    |     |
+|        | 　                                     | 　+ OS 구술문제 [3 해설](https://github.com/Kraken-Addicts/Operating-System/issues/11)　                    |   `⑥daelee`    |     |
 ||||||
 | **7**  | **[제어 유니트]()**                    | 　                                              | **12/17 (목)** |     |
 |        | 　                                     | 　 4.1 제어 유니트의 기능　                     |    `④kukim`    |     |
@@ -54,14 +54,14 @@
 |        | 　                                     | 　 4.3 마이크로명령어의 형식　                  |   `⑥daelee`    |     |
 |        | 　                                     | 　 4.4 마이크로프로그래밍　                     |   `⑦sancho`    |     |
 |        | 　                                     | 　 4.5 마이크로프로그램의 순서제어　            |   `⑧yeosong`   |     |
-|        | 　                                     | 　+ OS 구술문제 [4 제출]()　                    |   `⑤mihykim`   |     |
+|        | 　                                     | 　+ OS 구술문제 [4 제출](https://github.com/Kraken-Addicts/Operating-System/issues/12)　                    |   `⑤mihykim`   |     |
 ||||||
 | **8**  | **[Main Memory]()**                    |                                                 | **12/21 (월)** |     |
 |        | 　                                     | 　 5.1 기억장치의 분류와 특성　                 |    `⑨kycho`    |     |
 |        | 　                                     | 　 5.2 계층적 기억장치시스템　                  |   `⑩jakang`    |     |
 |        | 　                                     | 　 5.3 반도체 기억장치 　                       |   `①gaekim`    |     |
 |        | 　                                     | 　 5.4 기억장치 모듈의 설계　                   |    `②secho`    |     |
-|        | 　                                     | 　+ OS 구술문제 [4 해설]()　                    |   `⑤mihykim`   |     |
+|        | 　                                     | 　+ OS 구술문제 [4 해설](https://github.com/Kraken-Addicts/Operating-System/issues/12)　                    |   `⑤mihykim`   |     |
 ||||||
 | **9**  | **[Cache]()**                          |                                                 | **12/24 (목)** |     |
 |        | 　                                     | 　 5.5 캐시 메모리 - 캐시용량, 인출방식　       |   `⑪taelee`    |     |
@@ -70,28 +70,28 @@
 |        | 　                                     | 　 5.5 캐시 메모리 - 다중캐시　                 |    `③yeha`     |     |
 |        | 　                                     | 　 5.6 DDR SDRAM *(간단히)*　                   |    `④kukim`    |     |
 |        | 　                                     | 　 5.7 차세대 비휘발성 기억장치 _(간단히)_ 　   |   `⑤mihykim`   |     |
-|        | 　                                     | 　+ OS 구술문제 [5 제출]()　                    |   `⑪taelee`    |     |
+|        | 　                                     | 　+ OS 구술문제 [5 제출](https://github.com/Kraken-Addicts/Operating-System/issues/13)　                    |   `⑪taelee`    |     |
 ||||||
 | **10** | **[Secondary Storage Device]()**       |                                                 | **12/28 (월)** |     |
 |        | 　                                     | 　 6.1 하드 디스크　                            |   `⑥daelee`    |     |
 |        | 　                                     | 　 6.2 RAID 　                                  |   `⑦sancho`    |
 |        | 　                                     | 　 6.3 플래시 메모리와 SSD - 플래시메모리　     |   `⑧yeosong`   |     |
 |        | 　                                     | 　 6.3 플래시 메모리와 SSD - SSD 　             |    `⑨kycho`    |     |
-|        | 　                                     | 　+ OS 구술문제 [5 해설]()　                    |   `⑪taelee`    |     |
+|        | 　                                     | 　+ OS 구술문제 [5 해설](https://github.com/Kraken-Addicts/Operating-System/issues/13)　                    |   `⑪taelee`    |     |
 ||||||
 | **11** | **[System Bus and Bus Arbitration]()** |                                                 | **12/31 (목)** |     |
 |        | 　                                     | 　 7.1 시스템 버스　                            |   `⑩jakang`    |     |
 |        | 　                                     | 　 7.2 버스 중재 - 병렬중재방식　               |   `⑪taelee`    |     |
 |        | 　                                     | 　 7.2 버스 중재 - 직렬중재방식　               |   `⑫jehong`    |     |
 |        | 　                                     | 　 7.2 버스 중재 - 폴링방식　                   |    `⑬hylee`    |     |
-|        | 　                                     | 　+ OS 구술문제 [6 제출]()　                    |   `⑫jehong`    |     |
+|        | 　                                     | 　+ OS 구술문제 [6 제출](https://github.com/Kraken-Addicts/Operating-System/issues/14)　                    |   `⑫jehong`    |     |
 ||||||
 | **12** | **[I/O Device Access]()**              |                                                 |  **1/4 (월)**  |     |
 |        | 　                                     | 　 7.3 I/O 장치의 접속 - I/O제어　              |   `①gaekim`    |     |
 |        | 　                                     | 　 7.3 I/O 장치의 접속 - I/O주소지정　          |    `②secho`    |     |
 |        | 　                                     | 　 7.4 인터럽트를 이용한 I/O 　                 |    `③yeha`     |     |
 |        | 　                                     | 　 7.5 DMA를 이용한 I/O 　                      |    `④kukim`    |     |
-|        | 　                                     | 　+ OS 구술문제 [6 해설]()　                    |   `⑫jehong`    |     |
+|        | 　                                     | 　+ OS 구술문제 [6 해설](https://github.com/Kraken-Addicts/Operating-System/issues/14)　                    |   `⑫jehong`    |     |
 ||||||
 | **13** | **[병렬컴퓨터]()**　                   | 　　                                            |  **1/7 (목)**  |     |
 |        | 　                                     | 　 8.1 병렬처리의 개념 및 필요성　              |   `⑤mihykim`   |     |
