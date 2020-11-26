@@ -12,14 +12,14 @@
 |        | 　                                     | 　 1.2 정보의 표현과 저장　                     |    `②secho`    |     |
 |        | 　                                     | 　 1.3 시스템의 구성　                          |    `③yeha`     |     |
 |        | 　                                     | 　 1.4 컴퓨터 구조의 발전과정 *(간단히)*　      |    `④kukim`    |     |
-|        | 　                                     | 　+ OS 구술문제 [1 제출]()　                    |    `②secho`    |     |
+|        | 　                                     | 　+ OS 구술문제 [1 제출](https://github.com/Kraken-Addicts/Operating-System/issues/9)　                    |    `②secho`    |     |
 ||||||
 | **2**  | **[ALU: Logic Operations]()**          | 　                                              | **11/30 (월)** |     |
 |        | 　                                     | 　 3.1 ALU의 구성 요소　                        |   `⑤mihykim`   |     |
 |        | 　                                     | 　 3.2 정수의 표현　                            |   `⑥daelee`    |     |
 |        | 　                                     | 　 3.3 논리 연산　                              |   `⑦sancho`    |     |
 |        | 　                                     | 　 3.4 시프트 연산　                            |   `⑧yeosong`   |     |
-|        | 　                                     | 　+ OS 구술문제 [1 해설]()　                    |    `②secho`    |     |
+|        | 　                                     | 　+ OS 구술문제 [1 해설](https://github.com/Kraken-Addicts/Operating-System/issues/9)　                    |    `②secho`    |     |
 ||||||
 | **3**  | **[ALU: Arithmetic Operations]()**     |                                                 | **12/3 (목)**  |     |
 |        | 　                                     | 　 3.5 정수의 산술 연산　                       |    `⑨kycho`    |     |
