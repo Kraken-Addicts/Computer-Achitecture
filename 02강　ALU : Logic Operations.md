@@ -1,4 +1,5 @@
-## ALU: Logic Operations
+## 🦄 ALU: Logic Operations (2 / 13회차)
+<br>
 
 ### 3.1 ALU의 구성 요소　　	`mihykim`
 
