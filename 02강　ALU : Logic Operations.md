@@ -89,7 +89,7 @@
 
 ### 3.2 정수의 표현　　　	`daelee`
 
-요기엔 문제를 적어주세연-
+
 
 <details>
 <summary> <b> :page_facing_up: 답지 </b>  </summary><br>
