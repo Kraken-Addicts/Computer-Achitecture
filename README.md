@@ -14,7 +14,7 @@
 |        | 　                                     | 　 1.4 컴퓨터 구조의 발전과정 *(간단히)*　      |    `④kukim`    |     |
 |        | 　                                     | 　+ OS 구술문제 [1 제출](https://github.com/Kraken-Addicts/Operating-System/issues/9)　                    |    `②secho`    |     |
 ||||||
-| **2**  | **[ALU: Logic Operations](./02%EA%B0%95%E3%80%80ALU%20:%20Logic%20Operations.md)**          | 　                                              | **11/30 (월)** |     |
+| **2**  | **[ALU: Logic Operations](./02%EA%B0%95%E3%80%80ALU%20:%20Logic%20Operations.md)**          | 　                                              | **11/30 (월)** | 🦄 |
 |        | 　                                     | 　 3.1 ALU의 구성 요소　                        |   `⑤mihykim`   |     |
 |        | 　                                     | 　 3.2 정수의 표현　                            |   `⑥daelee`    |     |
 |        | 　                                     | 　 3.3 논리 연산　                              |   `⑦sancho`    |     |
