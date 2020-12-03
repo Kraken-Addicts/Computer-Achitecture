@@ -233,7 +233,7 @@ A-Q레지스터의 값이 01000001(65)이다.<br>
 - 다음 중 부동소수점 덧셈 과정에서 필요하지 않은 연산은 어느 것인가? [기본문제 3.15번]
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 가. 지수 조정 &nbsp;&nbsp;&nbsp; 나. 정규화 &nbsp;&nbsp;&nbsp; 다. 지수 덧셈 &nbsp;&nbsp;&nbsp; 라. 가수 덧셈
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 가. 지수 조정 &nbsp;&nbsp;&nbsp; 나. 정규화 &nbsp;&nbsp;&nbsp; 다. 지수 덧셈 &nbsp;&nbsp;&nbsp; 라. 가수 덧셈
 - 다음 중 부동소수점 나눗셈 과정에서 필요하지 않은 연산은 어느 것인가? [기본문제 3.16번]
 
 
@@ -241,21 +241,20 @@ A-Q레지스터의 값이 01000001(65)이다.<br>
 - 아래의 부동소수점 산술 연산들을 수행하고, 알맞은 답을 고르시오. [연습문제 3.24번 변형]
 
 
-  **1번>**  (0.111001 x 2<sup>-5</sup>) + (0.100111 x 2<sup>-3</sup>)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1번>  (0.111001 x 2<sup>-5</sup>) + (0.100111 x 2<sup>-3</sup>)
   
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (가) 0.11011101 x 2<sup>-3</sup> &nbsp;&nbsp;&nbsp; (나) 0.11010101 x 2<sup>-3</sup> &nbsp;&nbsp;&nbsp; (다) 0.11011111 x 2<sup>-3</sup> &nbsp;&nbsp;&nbsp; (라) 0.11010101 x 2<sup>-4</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (가) 0.11011101 x 2<sup>-3</sup> &nbsp;&nbsp;&nbsp; (나) 0.11010101 x 2<sup>-3</sup> &nbsp;&nbsp;&nbsp; (다) 0.11011111 x 2<sup>-3</sup> &nbsp;&nbsp;&nbsp; (라) 0.11010101 x 2<sup>-4</sup> <br/>
+
   
+2번>  (0.100011 x 2<sup>6</sup>) - (0.111001 x 2<sup>3</sup>)<br/>
   
-  
-  **2번>**  (0.100011 x 2<sup>6</sup>) - (0.111001 x 2<sup>3</sup>)
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (가) 1.1011111 x 2<sup>5</sup> &nbsp;&nbsp;&nbsp; (나) 0.11111111 x 2<sup>5</sup>&nbsp;&nbsp;&nbsp;  (다) 0.11011111 x 2<sup>5</sup> &nbsp;&nbsp;&nbsp; (라) 0.11011111 x 2<sup>9</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (가) 1.1011111 x 2<sup>5</sup> &nbsp;&nbsp;&nbsp; (나) 0.11111111 x 2<sup>5</sup>&nbsp;&nbsp;&nbsp;  (다) 0.11011111 x 2<sup>5</sup> &nbsp;&nbsp;&nbsp; (라) 0.11011111 x 2<sup>9</sup> <br/>
   
 
-  **3번>**  (0.1001 x 2<sup>8</sup>) x (0.1011 x 2<sup>12</sup>)
+3번>  (0.1001 x 2<sup>8</sup>) x (0.1011 x 2<sup>12</sup>)<br/>
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (가) 0.1100001 x 2<sup>19</sup> &nbsp;&nbsp;&nbsp; (나) 0.1010011 x 2<sup>19</sup>&nbsp;&nbsp;&nbsp;  (다) 0.1100011 x 2<sup>20</sup> &nbsp;&nbsp;&nbsp; (라) 0.1100011 x 2<sup>19</sup>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (가) 0.1100001 x 2<sup>19</sup> &nbsp;&nbsp;&nbsp; (나) 0.1010011 x 2<sup>19</sup>&nbsp;&nbsp;&nbsp;  (다) 0.1100011 x 2<sup>20</sup> &nbsp;&nbsp;&nbsp; (라) 0.1100011 x 2<sup>19</sup>  <br/>
   
 - 부동소수점 산술연산 과정에서는 `__` 오버플로우, `__` 언더플로우, `__` 언더플로우, `__` 오버플로우 등의 문제가 발생할 가능성이 있다.
 
@@ -275,21 +274,24 @@ A-Q레지스터의 값이 01000001(65)이다.<br>
 - 아래의 부동소수점 산술 연산들을 수행하고, 알맞은 답을 고르시오. [연습문제 3.24번 변형]
 
 
-  **1번>**  (0.111001 x 2<sup>-5</sup>) + (0.100111 x 2<sup>-3</sup>)
+  1번>  (0.111001 x 2<sup>-5</sup>) + (0.100111 x 2<sup>-3</sup>)<br/>
+
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; (가) 0.11011101 x 2<sup>-3</sup> &nbsp;&nbsp;&nbsp; **(나) 0.11010101 x 2<sup>-3</sup>** &nbsp;&nbsp;&nbsp; (다) 0.11011111 x 2<sup>-3</sup> &nbsp;&nbsp;&nbsp; (라) 0.11010101 x 2<sup>-4</sup> <br/>
   
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (가) 0.11011101 x 2<sup>-3</sup> &nbsp;&nbsp;&nbsp; **(나) 0.11010101 x 2<sup>-3</sup>**&nbsp;&nbsp;&nbsp;  (다) 0.11011111 x 2<sup>-3</sup> &nbsp;&nbsp;&nbsp; (라) 0.11010101 x 2<sup>-4</sup>
   
   
-  **2번>**  (0.100011 x 2<sup>6</sup>) - (0.111001 x 2<sup>3</sup>)
   
+&nbsp; &nbsp; &nbsp; &nbsp;  2번>  (0.100011 x 2<sup>6</sup>) - (0.111001 x 2<sup>3</sup>)<br/>
   
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (가) 1.1011111 x 2<sup>5</sup> &nbsp;&nbsp;&nbsp; (나) 0.11111111 x 2<sup>5</sup>&nbsp;&nbsp;&nbsp;  **(다) 0.11011111 x 2<sup>5</sup> &nbsp;&nbsp;&nbsp;** (라) 0.11011111 x 2<sup>9</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (가) 1.1011111 x 2<sup>5</sup> &nbsp;&nbsp;&nbsp; (나) 0.11111111 x 2<sup>5</sup>&nbsp;&nbsp;&nbsp;  **(다) 0.11011111 x 2<sup>5</sup> &nbsp;&nbsp;&nbsp;** (라) 0.11011111 x 2<sup>9</sup> <br/>
   
+
+&nbsp; &nbsp; &nbsp; &nbsp;  3번>  (0.1001 x 2<sup>8</sup>) x (0.1011 x 2<sup>12</sup>)<br/>
   
-  **3번>**  (0.1001 x 2<sup>8</sup>) x (0.1011 x 2<sup>12</sup>)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (가) 0.1100001 x 2<sup>19</sup> &nbsp;&nbsp;&nbsp; (나) 0.1010011 x 2<sup>19</sup>&nbsp;&nbsp;&nbsp;  (다) 0.1100011 x 2<sup>20</sup> &nbsp;&nbsp;&nbsp; **(라) 0.1100011 x 2<sup>19</sup>  <br/>**
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (가) 0.1100001 x 2<sup>19</sup> &nbsp;&nbsp;&nbsp; (나) 0.1010011 x 2<sup>19</sup>&nbsp;&nbsp;&nbsp;  (다) 0.1100011 x 2<sup>20</sup> &nbsp;&nbsp;&nbsp; **(라) 0.1100011 x 2<sup>19</sup>**  
   
   <img src = "https://user-images.githubusercontent.com/59970070/100898551-388f7880-3504-11eb-9ef7-d292843994be.jpg" width="70%" height="70%">
 
