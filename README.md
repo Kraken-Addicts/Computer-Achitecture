@@ -21,7 +21,7 @@
 |        | 　                                     | 　 3.4 시프트 연산　                            |   `⑧yeosong`   |     |
 |        | 　                                     | 　+ OS 구술문제 [1 해설](https://github.com/Kraken-Addicts/Operating-System/issues/9)　                    |    `②secho`    |     |
 ||||||
-| **3**  | **[ALU: Arithmetic Operations](./03%EA%B0%95%E3%80%80ALU%20:%20Arithmetic%20Operations.md)**     |                                                 | **12/3 (목)**  |     |
+| **3**  | **[ALU: Arithmetic Operations](./03%EA%B0%95%E3%80%80ALU%20:%20Arithmetic%20Operations.md)**     |                                                 | **12/3 (목)**  | 🦄 |
 |        | 　                                     | 　 3.5 정수의 산술 연산　                       |    `⑨kycho`    |     |
 |        | 　                                     | 　 3.6 부동소수점 수의 표현　                   |   `⑩jakang`    |     |
 |        | 　                                     | 　 3.7 부동소수점 산술 연산　                   |   `①gaekim`    |     |
