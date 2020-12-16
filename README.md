@@ -105,8 +105,9 @@
 <br>
 
 - **스터디자료**
-  - 교재: [컴퓨터구조론](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970509693&orderClick=LAG&Kc=)(김종현 지음, 생능출판사)
+  - 교재: 
+    - 주교재: [컴퓨터구조론](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970509693&orderClick=LAG&Kc=)(김종현 지음, 생능출판사)
   - 참고강의:
-    - [K-MOOC 컴퓨터 구조](http://www.kmooc.kr/courses/course-v1:SMUCk+CK.SMUC03k+2017_T6/video)
-    - [CrashCourse - Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+    - 강의자료: [K-MOOC 컴퓨터 구조](http://www.kmooc.kr/courses/course-v1:SMUCk+CK.SMUC03k+2017_T6/video)
+    - 보조자료: [CrashCourse - Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
