@@ -57,14 +57,14 @@
 |        | 　                                     | 　 4.5 마이크로프로그램의 순서제어　            |   `⑧yeosong`   |     |
 |        | 　                                     | 　+ OS 구술문제 [4 제출](https://github.com/Kraken-Addicts/Operating-System/issues/12)　                    |   `⑤mihykim`   |     |
 ||||||
-| **8**  | **[Main Memory]()**                    |                                                 | **12/21 (월)** |     |
+| **8**  | **[Main Memory](./08강%E3%80%80메인메모리.md)**                    |                                                 | **12/21 (월)** |     |
 |        | 　                                     | 　 5.1 기억장치의 분류와 특성　                 |    `⑨kycho`    |     |
 |        | 　                                     | 　 5.2 계층적 기억장치시스템　                  |   `⑩jakang`    |     |
 |        | 　                                     | 　 5.3 반도체 기억장치 　                       |   `①gaekim`    |     |
 |        | 　                                     | 　 5.4 기억장치 모듈의 설계　                   |    `②secho`    |     |
 |        | 　                                     | 　+ OS 구술문제 [4 해설](https://github.com/Kraken-Addicts/Operating-System/issues/12)　                    |   `⑤mihykim`   |     |
 ||||||
-| **9**  | **[Cache]()**                          |                                                 | **12/24 (목)** |     |
+| **9**  | **[Cache](./09강%E3%80%80캐시.md)**                          |                                                 | **12/24 (목)** |     |
 |        | 　                                     | 　 5.5 캐시 메모리 - 캐시용량, 인출방식　       |   `⑪taelee`    |     |
 |        | 　                                     | 　 5.5 캐시 메모리 - 사상방식　                 |   `⑫jehong`    |     |
 |        | 　                                     | 　 5.5 캐시 메모리 - 교체알고리즘, 쓰기정책　   |    `⑬hylee`    |     |
