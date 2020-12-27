@@ -73,7 +73,7 @@
 |        | 　                                     | 　 5.7 차세대 비휘발성 기억장치 _(간단히)_ 　   |   `⑤mihykim`   |     |
 |        | 　                                     | 　+ OS 구술문제 [5 제출](https://github.com/Kraken-Addicts/Operating-System/issues/13)　                    |   `⑪taelee`    |     |
 ||||||
-| **10** | **[Secondary Storage Device](./10강%E3%80%80보조저장장치.md)**       |                                                 | **12/28 (월)** |     |
+| **10** | **[Secondary Storage Device](./10강　보조저장장치.md)**       |                                                 | **12/28 (월)** |     |
 |        | 　                                     | 　 6.1 하드 디스크　                            |   `⑤mihykim`    |     |
 |        | 　                                     | 　 6.2 RAID 　                                  |   `⑦sancho`    |
 |        | 　                                     | 　 6.3 플래시 메모리와 SSD - 플래시메모리　     |   `⑧yeosong`   |     |
