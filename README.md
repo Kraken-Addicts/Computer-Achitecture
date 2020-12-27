@@ -74,7 +74,7 @@
 |        | 　                                     | 　+ OS 구술문제 [5 제출](https://github.com/Kraken-Addicts/Operating-System/issues/13)　                    |   `⑪taelee`    |     |
 ||||||
 | **10** | **[Secondary Storage Device](./10강%E3%80%80보조저장장치.md)**       |                                                 | **12/28 (월)** |     |
-|        | 　                                     | 　 6.1 하드 디스크　                            |   `⑥daelee`    |     |
+|        | 　                                     | 　 6.1 하드 디스크　                            |   `⑤mihykim`    |     |
 |        | 　                                     | 　 6.2 RAID 　                                  |   `⑦sancho`    |
 |        | 　                                     | 　 6.3 플래시 메모리와 SSD - 플래시메모리　     |   `⑧yeosong`   |     |
 |        | 　                                     | 　 6.3 플래시 메모리와 SSD - SSD 　             |    `⑨kycho`    |     |
@@ -95,7 +95,7 @@
 |        | 　                                     | 　+ OS 구술문제 [6 해설](https://github.com/Kraken-Addicts/Operating-System/issues/14)　                    |   `⑫jehong`    |     |
 ||||||
 | **13** | **[병렬컴퓨터]()**　                   | 　　                                            |  **1/7 (목)**  |     |
-|        | 　                                     | 　 8.1 병렬처리의 개념 및 필요성　              |   `⑤mihykim`   |     |
+|        | 　                                     | 　 8.1 병렬처리의 개념 및 필요성　              |   `⑥daelee`   |     |
 |        | 　                                     | 　 8.2 병렬처리의 단위　                        |   `⑥daelee`    |     |
 |        | 　                                     | 　 8.3 병렬컴퓨터의 분류　                      |   `⑦sancho`    |     |
 |        | 　                                     | 　 8.4 다중프로세서시스템 구조 - 공유기억장치　 |   `⑧yeosong`   |     |
