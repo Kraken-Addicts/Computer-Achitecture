@@ -80,7 +80,7 @@
 |        | 　                                     | 　 6.3 플래시 메모리와 SSD - SSD 　             |    `⑨kycho`    |     |
 |        | 　                                     | 　+ OS 구술문제 [5 해설](https://github.com/Kraken-Addicts/Operating-System/issues/13)　                    |   `⑪taelee`    |     |
 ||||||
-| **11** | **[System Bus and Bus Arbitration](./11강　시스템버스 및 버스중재.md)** |                                                 | **12/31 (목)** |     |
+| **11** | **[System Bus and Bus Arbitration](./11강%E3%80%80시스템버스%20및%20버스중재.md)** |                                                 | **12/31 (목)** |     |
 |        | 　                                     | 　 7.1 시스템 버스　                            |   `⑩jakang`    |     |
 |        | 　                                     | 　 7.2 버스 중재 - 병렬중재방식　               |   `⑪taelee`    |     |
 |        | 　                                     | 　 7.2 버스 중재 - 직렬중재방식　               |   `⑫jehong`    |     |
