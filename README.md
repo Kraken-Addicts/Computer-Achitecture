@@ -87,7 +87,7 @@
 |        | 　                                     | 　 7.2 버스 중재 - 폴링방식　                   |    `⑬hylee`    |     |
 |        | 　                                     | 　+ OS 구술문제 [6 제출](https://github.com/Kraken-Addicts/Operating-System/issues/14)　                    |   `⑫jehong`    |     |
 ||||||
-| **12** | **[I/O Device Access]()**              |                                                 |  **1/4 (월)**  |     |
+| **12** | **[I/O Device Access](https://github.com/Kraken-Addicts/Computer-Achitecture/blob/main/12%EA%B0%95%E3%80%80%EC%9E%85%EC%B6%9C%EB%A0%A5%20Device.md)**              |                                                 |  **1/4 (월)**  |     |
 |        | 　                                     | 　 7.3 I/O 장치의 접속 - I/O제어　              |   `①gaekim`    |     |
 |        | 　                                     | 　 7.3 I/O 장치의 접속 - I/O주소지정　          |    `②secho`    |     |
 |        | 　                                     | 　 7.4 인터럽트를 이용한 I/O 　                 |    `③yeha`     |     |
