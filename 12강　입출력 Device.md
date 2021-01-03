@@ -120,7 +120,7 @@ Programmed I/O방식이란 CPU가 I/O장치 상태를 반복적으로 검사하�
 
 
 
-[출처](
+[출처](http://jidum.com/jidums/view.do?jidumId=467)
 
 </div>
 </details>
