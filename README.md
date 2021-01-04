@@ -87,14 +87,14 @@
 |        | 　                                     | 　 7.2 버스 중재 - 폴링방식　                   |    `⑬hylee`    |     |
 |        | 　                                     | 　+ OS 구술문제 [6 제출](https://github.com/Kraken-Addicts/Operating-System/issues/14)　                    |   `⑫jehong`    |     |
 ||||||
-| **12** | **[I/O Device Access](https://github.com/Kraken-Addicts/Computer-Achitecture/blob/main/12%EA%B0%95%E3%80%80%EC%9E%85%EC%B6%9C%EB%A0%A5%20Device.md)**              |                                                 |  **1/4 (월)**  |     |
+| **12** | **[I/O Device Access](https://github.com/Kraken-Addicts/Computer-Achitecture/blob/main/12%EA%B0%95%E3%80%80%EC%9E%85%EC%B6%9C%EB%A0%A5%20Device.md)**              |                                                 |  **1/4 (월)**  | 🦄 |
 |        | 　                                     | 　 7.3 I/O 장치의 접속 - I/O제어　              |   `①gaekim`    |     |
 |        | 　                                     | 　 7.3 I/O 장치의 접속 - I/O주소지정　          |    `②secho`    |     |
 |        | 　                                     | 　 7.4 인터럽트를 이용한 I/O 　                 |    `③yeha`     |     |
 |        | 　                                     | 　 7.5 DMA를 이용한 I/O 　                      |    `④kukim`    |     |
 |        | 　                                     | 　+ OS 구술문제 [6 해설](https://github.com/Kraken-Addicts/Operating-System/issues/14)　                    |   `⑫jehong`    |     |
 ||||||
-| **13** | **[병렬컴퓨터]()**　                   | 　　                                            |  **1/7 (목)**  |     |
+| **13** | **[병렬컴퓨터](https://github.com/Kraken-Addicts/Computer-Achitecture/blob/main/13%EA%B0%95%E3%80%80%EB%B3%91%EB%A0%AC%EC%BB%B4%ED%93%A8%ED%84%B0.md)**　                   | 　　                                            |  **1/7 (목)**  |     |
 |        | 　                                     | 　 8.1 병렬처리의 개념 및 필요성　              |   `⑥daelee`   |     |
 |        | 　                                     | 　 8.2 병렬처리의 단위　                        |   `⑥daelee`    |     |
 |        | 　                                     | 　 8.3 병렬컴퓨터의 분류　                      |   `⑦sancho`    |     |
