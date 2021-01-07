@@ -94,7 +94,7 @@
 |        | 　                                     | 　 7.5 DMA를 이용한 I/O 　                      |    `④kukim`    |     |
 |        | 　                                     | 　+ OS 구술문제 [6 해설](https://github.com/Kraken-Addicts/Operating-System/issues/14)　                    |   `⑫jehong`    |     |
 ||||||
-| **13** | **[병렬컴퓨터](https://github.com/Kraken-Addicts/Computer-Achitecture/blob/main/13%EA%B0%95%E3%80%80%EB%B3%91%EB%A0%AC%EC%BB%B4%ED%93%A8%ED%84%B0.md)**　                   | 　　                                            |  **1/7 (목)**  |     |
+| **13** | **[병렬컴퓨터](https://github.com/Kraken-Addicts/Computer-Achitecture/blob/main/13%EA%B0%95%E3%80%80%EB%B3%91%EB%A0%AC%EC%BB%B4%ED%93%A8%ED%84%B0.md)**　                   | 　　                                            |  **1/7 (목)**  | 🦄  |
 |        | 　                                     | 　 8.1 병렬처리의 개념 및 필요성　              |   `⑥daelee`   |     |
 |        | 　                                     | 　 8.2 병렬처리의 단위　                        |   `⑥daelee`    |     |
 |        | 　                                     | 　 8.3 병렬컴퓨터의 분류　                      |   `⑦sancho`    |     |
